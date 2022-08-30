@@ -1,3 +1,3 @@
-s = "542. 01 Matrix"
+s = "322. Coin Change"
 print(s.replace(".", "").replace(" ", "_").lower())
 
